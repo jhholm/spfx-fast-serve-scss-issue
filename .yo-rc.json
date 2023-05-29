@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.2",
+    "libraryName": "spfx-fast-serve-scss-issue",
+    "libraryId": "f7fb83ed-39a4-48a5-9090-68f3484b1ef0",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-fast-serve-scss-issue",
+    "solutionShortDescription": "spfx-fast-serve-scss-issue description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

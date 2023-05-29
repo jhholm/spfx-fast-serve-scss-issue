@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-fast-serve-scss-issue-client-side-solution",
+    "id": "f7fb83ed-39a4-48a5-9090-68f3484b1ef0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-fast-serve-scss-issue description"
+      },
+      "longDescription": {
+        "default": "spfx-fast-serve-scss-issue description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-fast-serve-scss-issue Feature",
+        "description": "The feature that activates elements of the spfx-fast-serve-scss-issue solution.",
+        "id": "c234d712-dc74-4ba9-96cc-385b66ef8d98",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-fast-serve-scss-issue.sppkg"
+  }
+}
